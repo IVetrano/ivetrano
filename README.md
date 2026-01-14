@@ -61,9 +61,7 @@ Check out my [portfolio](https://ivetrano.github.io/github-portfolio/) to see my
 
 ## 📊 GitHub Stats
 
-![Ignacio's GitHub stats](https://github-readme-stats.vercel.app/api?username=IVetrano&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IVetrano&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=ivetrano&theme=tokyonight&hide_border=true)
 
 ---
 
