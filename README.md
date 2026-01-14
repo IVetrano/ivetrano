@@ -9,7 +9,7 @@ I'm a final-year Computer Engineering student at **Universidad de Buenos Aires (
 ## 🎓 Education
 
 **Computer Engineering** - Universidad de Buenos Aires (UBA)  
-*Expected Graduation: 2025/2026*
+*Expected Graduation: 2026*
 
 ---
 
